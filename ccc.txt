@@ -2,3 +2,6 @@ ccc
 cxy
 dev
 b3
+
+cd ..
+ls
